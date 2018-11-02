@@ -4,11 +4,11 @@
 
 //GLOBAL VARIABLES
 /* global $ */
-$("button").click(function(){
-    $("#message").text($("#input3").val());
-});
-
-
-
+$("button").click(function(){100
+    $("#userChoice").text($("input").val());
+}); 
 // DOCUMENT READY FUNCTION BELOW
-
+var userChoice=""
+var computerChoice=""
+var winner=""
+var randomNumber="0"
