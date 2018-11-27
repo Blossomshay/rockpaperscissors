@@ -9,6 +9,20 @@
 }
 li{
   font-size:25px;
-  color:orange;
+  color:white;
   
+}
+
+body {
+  background-color: orange;
+  
+}
+
+h1 {
+  color:white;
+}
+
+img {
+  border-style: inset;
+  border-color: white;
 }
